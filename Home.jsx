@@ -3,7 +3,6 @@ import banner from '../assets/banner.jpg';
 function Home() {
   return (
     <div className="relative w-full h-168 overflow-hidden">
-
       <img
         className="w-full h-full object-cover"
         src={banner}
